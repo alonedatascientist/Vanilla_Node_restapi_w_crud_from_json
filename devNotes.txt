@@ -1,0 +1,2 @@
+Project Desc:
+A vanilla JS API w/ crud functionality that reads, writes, etc from a JSON file. It does not use Express or any such framework. This is bare bones and intended to teach some basic API concepts. This is inspired from a tutorial the video of which is called "Vanilla Node.js REST API | No framework" by Traversy Media. It can be found on YT. 
